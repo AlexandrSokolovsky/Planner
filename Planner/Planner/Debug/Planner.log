@@ -1,0 +1,11 @@
+﻿  Source.cpp
+d:\planner\planner\planner.h(67): warning C4018: <=: несоответствие типов со знаком и без знака
+d:\planner\planner\planner.h(83): warning C4477: "fprintf": в строке форматирования "%s" требуется аргумент типа "char *", но вариативный аргумент "1" имеет тип "std::string"
+d:\planner\planner\planner.h(97): warning C4477: "fprintf": в строке форматирования "%s" требуется аргумент типа "char *", но вариативный аргумент "1" имеет тип "_Ty"
+          with
+          [
+              _Ty=std::string
+          ]
+d:\planner\planner\source.cpp(93): warning C4244: аргумент: преобразование "std::streamoff" в "const unsigned int", возможна потеря данных
+d:\planner\planner\source.cpp(95): warning C4244: =: преобразование "std::streamoff" в "int", возможна потеря данных
+  Planner.vcxproj -> D:\Planner\Debug\Planner.exe
